@@ -1,0 +1,35 @@
+nav{
+   margin: 5px 0px;
+}
+
+nav a {
+   padding-right: 60px;
+   color: rgb(248, 0, 0);
+   background-color: rgb(255, 255, 255);
+   font-size: 26px;
+   font-weight: normal;
+   padding-bottom: 1px;  
+   text-decoration: none;
+   border: 1px solid #000000;
+    border-radius: 500px;
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 { 
+    background-color: white;
+    color: #ff0000;
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+    margin: 50px;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+}
