@@ -4,6 +4,7 @@
     text-decoration: none;
     font-size: 40px;
     margin: 10px;
+    text-aligh: center;
 }
 
 footer {
@@ -22,10 +23,11 @@ h1 {
 
 h2 { 
     background-color: #000000;
-    color: #ff0060;
+    color: #ec0000;
     text-align: center;
     padding: 10px;
     margin: 10px;
+    text-aligh: center;
 }
 
 p {
@@ -35,17 +37,19 @@ p {
     font-size: 24px;
     border: 3px solid red;
     border-radius: 50px;
+    Text-aligh: center;
 }
 
 main img {
     width: 820px;
     height: 550px;
     border-radius: 35px;
+    text-aligh: center ;
 }
 
 .r {
     background-color: #000000;
-    color: rgb(255, 0, 0);
+    color: white ;
     text-align: center;
     font-size: 24px;
     border-left: 7px dashed #ff0000;
@@ -53,4 +57,5 @@ main img {
     border-top: 7px dashed  #ff0000;
     border-bottom: 7px dashed #ff0000;
     border-radius: 50px;
+    text-aligh: center ;
 }
