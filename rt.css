@@ -41,11 +41,12 @@ main img {
     width: 820px;
     height: 550px;
     border-radius: 35px;
+    text-aligh: center;
 }
 
 .r {
     background-color: #000000;
-    color: rgb(255, 0, 0);
+    color: whitesmoke;
     text-align: center;
     font-size: 24px;
     border-left: 7px dashed #ff0000;
