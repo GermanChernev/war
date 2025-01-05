@@ -29,6 +29,15 @@ h2 {
     margin: 10px;
 }
 
+h3 { 
+    background-color: #000000;
+    color: #ff0000;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+
 p {
     background-color: #000000;
     color: whitesmoke;
