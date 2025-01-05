@@ -1,4 +1,4 @@
-a{
+ a{
     background-color: #000000;
     color: rgb(255, 0, 0);
     text-decoration: none;
@@ -9,7 +9,6 @@ a{
 footer {
     background-color: #000000;
     text-align: center;
-    margin: 10px;
 }
 
 h1 { 
@@ -18,7 +17,7 @@ h1 {
     text-align: center;
     font-size: 60px;
     padding: 10px;
-    margin: 10px;
+    margin: 50px;
 }
 
 h2 { 
@@ -27,23 +26,6 @@ h2 {
     text-align: center;
     padding: 10px;
     margin: 10px;
-}
-
-p {
-    background-color: #000000;
-    color: whitesmoke;
-    text-align: center;
-    font-size: 24px;
-    border: 3px solid red;
-    border-radius: 50px;
-    padding: 10px;
-}
-
-main img {
-    width: 800px;
-    height: 550px;
-    border-radius: 35px;
-    padding: 10px;
 }
 
 .r {
@@ -58,29 +40,20 @@ main img {
     border-radius: 50px;
     padding: 10px;
 }
+}
+
+p {
+    background-color: #000000;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 24px;
+    border: 3px solid red;
+    border-radius: 50px;
+    padding: 10px;
+}
 
 body {
     border-left: 5px dashed #000000;
     border-right: 5px dashed #000000;
     font-family: sans-serif;
-}
-
-table {
-    border-collapse: collapse;
-    text-align: center;
-    margin: 0 auto;
-    font-size: 20px;
-    border: 5px dashed rgb(0, 0, 0);
-    margin-bottom: 30px;
-}
-
-td {
-    padding: 10px;
-    border: 5px dashed rgb(0, 0, 0);
-    text-align: center;
-    color: #ec0000;
-    background-color: #000000;
-    text-decoration: none;
-    font-size: 40px;
-    margin: 5px;
 }
