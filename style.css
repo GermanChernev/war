@@ -22,7 +22,7 @@ body {
 }
 
 img {
-   width: 800px;
+   width: 550px;
    height: 550px;
 }
 
@@ -40,6 +40,5 @@ h1 {
    background-color: rgb(255, 255, 255);
    padding-bottom: 1px;  
    text-decoration: none;
-   margin: 250px;
    text-align: center;
 }
