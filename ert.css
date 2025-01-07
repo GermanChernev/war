@@ -45,6 +45,7 @@ main img {
     border-radius: 100px;
     padding: 10px;
     margin: 3px;
+    text-align: center;
 }
 
 .r {
