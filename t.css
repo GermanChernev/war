@@ -51,7 +51,7 @@ p {
 main img {
     width: 800px;
     height: 375px;
-    border-radius: 35px;
+    border-radius: 9px;
     padding: 10px;
     float:right;
 }
